@@ -1,0 +1,24 @@
+_repo: Legendes-democratiques-du-Nord_47522
+creator:
+  author:
+    agent_name: Michelet, Jules
+    alias: Michelet, J.
+    birthdate: 1798
+    deathdate: 1874
+    gutenberg_agent_id: '8214'
+    url: http://www.gutenberg.org/2009/agents/8214
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jules_Michelet
+    - http://fr.wikipedia.org/wiki/Jules_Michelet
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2014-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47522'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Légendes démocratiques du Nord
+url: http://www.gutenberg.org/ebooks/47522
