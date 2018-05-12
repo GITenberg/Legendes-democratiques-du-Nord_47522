@@ -1,4 +1,8 @@
 _repo: Legendes-democratiques-du-Nord_47522
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47522-h/images/cover.jpg
 creator:
   author:
     agent_name: Michelet, Jules
@@ -11,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/Jules_Michelet
     - http://fr.wikipedia.org/wiki/Jules_Michelet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47522#Legendes-democratiques-du-Nord
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2014-12-03'
 gutenberg_type: Text
